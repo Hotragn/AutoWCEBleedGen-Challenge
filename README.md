@@ -13,3 +13,5 @@ The below is direct link to validation images showing its detection with confide
 ![val_batch0_pred](https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/2cae70a4-4225-41b4-b62f-03a10f477568)
 
 
+<img width="649" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/4645bca9-0a99-4fd2-8d0a-7144345aff53">
+
