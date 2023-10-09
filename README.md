@@ -10,5 +10,6 @@ Direct link for metrics:<br>
 
 <br>
 The below is direct link to validation images showing its detection with confidence score:<br>  
-![image](https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/61b61220-32ed-489e-8358-5cd0672b9261)
+![val_batch0_pred](https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/2cae70a4-4225-41b4-b62f-03a10f477568)
+
 
