@@ -34,6 +34,9 @@ Testing dataset-1:
 Testing dataset-2:
 <img width="505" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/f8fb5aa1-8d5b-481c-b642-9c755dca5248">
 
+<br>
+The code and respective files for training and dependencies can be found click...https://github.com/Hotragn/AutoWCEBleedGen-Challenge
+The end of the file.
 
 
 
