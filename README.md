@@ -6,4 +6,5 @@ detailed.
 
 <br>
 The below is direct link to validation images showing its detection with confidence score:<br>  
-![val_batch0_pred](https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/611b606a-d1df-4ca6-a788-6194fb9b0dc3)
+![image](https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/61b61220-32ed-489e-8358-5cd0672b9261)
+
