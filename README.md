@@ -33,12 +33,12 @@ The detected images for the batch_1 validation:
 <img width="505" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/68b355ba-48d5-42c7-a42c-b4871386a21a">
 <br>
 
-Example of Excel sheet containing the image IDs and predicted class labels of testing dataset 1 and 2:
-Testing dataset-1:
+Example of Excel sheet containing the image IDs and predicted class labels of testing dataset 1 and 2:<br>
+Testing dataset-1:<br>
 <img width="505" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/a082a6f1-661d-4993-accc-ca200eb4138c">
-Testing dataset-2:
+<br>Testing dataset-2:<br>
 <img width="505" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/f8fb5aa1-8d5b-481c-b642-9c755dca5248">
-
+<br>
 <br>
 The code and respective files for training and dependencies can be found<br>
 click here[https://github.com/Hotragn/AutoWCEBleedGen-Challenge]
