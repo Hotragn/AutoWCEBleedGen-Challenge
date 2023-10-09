@@ -1,9 +1,10 @@
 # AutoWCEBleedGen-Challenge
 This repository consists of training, output obtained through model and related information. <br>
 
-The weight files and results i.e., confusion matrix, precision, recall, F1 confidence score curve and validation images used can be found in train11 folder in 
-detailed.<br>
-Test dataset results for 1 and 2 datasets can be found and downloaded from here: "https://github.com/Hotragn/AutoWCEBleedGen-Challenge/blob/main/Test%20Dataset%20Predicted%20Results.xlsx" 
+The weight files and results i.e., confusion matrix, precision, recall, F1 confidence score curve and validation images used can be found in train11 folder in detailed.<br><br><br>
+Test dataset results for 1 and 2 datasets can be found and downloaded from here: <br>
+"https://github.com/Hotragn/AutoWCEBleedGen-Challenge/blob/main/Test%20Dataset%20Predicted%20Results.xlsx" 
+
 <br>
 Direct link for metrics:<br>
 (https://github.com/Hotragn/AutoWCEBleedGen-Challenge/blob/main/train11/results.csv)
@@ -19,5 +20,9 @@ The achieved interpretability plots are shown below:
 <img width="649" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/4645bca9-0a99-4fd2-8d0a-7144345aff53">
 <img width="279" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/08519751-fecb-4cea-aa18-94bb17c32080">
 <img width="241" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/5d399d2b-975f-4ee7-877a-fa66e15d09b2">
+
+<br><br>
+<img width="505" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/68b355ba-48d5-42c7-a42c-b4871386a21a">
+
 
 
