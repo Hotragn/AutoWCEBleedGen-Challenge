@@ -19,11 +19,13 @@ The below is validation images showing its detection with confidence score:<br>
 <br><br><br>
 
 The achieved interpretability plots are shown below:
-<img width="648" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/1eeaf597-3c92-4e5f-87f0-7b86181bdbf7">
+<img width="648" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/1eeaf597-3c92-4e5f-87f0-7b86181bdbf7"><br>
+This curve tells us the models overall performance is not bad since it is 0.65.<br>
 <img width="649" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/4645bca9-0a99-4fd2-8d0a-7144345aff53"><br>
 F1 score curve for the dataset and based on it, this is best model.<br>
-<img width="279" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/08519751-fecb-4cea-aa18-94bb17c32080">
-<img width="241" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/5d399d2b-975f-4ee7-877a-fa66e15d09b2">
+<img width="279" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/08519751-fecb-4cea-aa18-94bb17c32080"><br>
+The tradeoff between precision and recall at particular threshold can be identified from this plot<br>
+<img width="241" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/5d399d2b-975f-4ee7-877a-fa66e15d09b2"><br>
 As we can see above, the detection has been done for bleeding which automatically help us in detection of non-bleeding images and the results are shown in csv for this.
 
 <br><br>
