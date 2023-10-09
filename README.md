@@ -24,6 +24,7 @@ The achieved interpretability plots are shown below:
 <img width="241" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/5d399d2b-975f-4ee7-877a-fa66e15d09b2">
 
 <br><br>
+The detected images for the batch_1 validation:
 <img width="505" alt="image" src="https://github.com/Hotragn/AutoWCEBleedGen-Challenge/assets/103170876/68b355ba-48d5-42c7-a42c-b4871386a21a">
 
 
