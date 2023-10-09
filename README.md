@@ -4,6 +4,7 @@ This repository consists of training, output obtained through model and related 
 The weight files and results i.e., confusion matrix, precision, recall, F1 confidence score curve and validation images used can be found in train11 folder in detailed.<br><br><br>
 Test dataset results for 1 and 2 datasets can be found and downloaded from here: <br>
 "https://github.com/Hotragn/AutoWCEBleedGen-Challenge/blob/main/Test%20Dataset%20Predicted%20Results.xlsx" 
+<br> As per test datasets given and the results show the different classes with respect to bleeding and non-bleeding and these have been stored in an xlsx file.
 
 <br>
 Direct link for metrics:<br>
